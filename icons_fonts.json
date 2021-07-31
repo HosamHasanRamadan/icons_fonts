@@ -20,8 +20,8 @@
         "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/weather_icons/font/weather_icons.ttf"
     },
     {
-        "name": "eva_icons",
-        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/eva_icons/font/eva_icons.json",
-        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/eva_icons/font/eva_icons.ttf"
+        "name": "octicons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/octicons/font/octicons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/octicons/font/octicons.ttf"
     }
 ]
