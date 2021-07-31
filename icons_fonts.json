@@ -1,8 +1,8 @@
 [
     {
-        "name": "ionicons",
-        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/ionicons/font/ionicons.json",
-        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/ionicons/font/ionicons.ttf"
+        "name": "simple_fonts",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_fonts/font/simple_fonts.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_fonts/font/simple_fonts.ttf"
     },
     {
         "name": "font_awesome",
