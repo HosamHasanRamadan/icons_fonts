@@ -16,7 +16,7 @@
     },
     {
         "name": "weather_icons",
-        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/weather_icons/main/weather_icons/font/weather_icons.json",
-        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/weather_icons/main/weather_icons/font/weather_icons.ttf"
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/weather_icons/font/weather_icons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/weather_icons/font/weather_icons.ttf"
     }
 ]
