@@ -1,0 +1,17 @@
+[
+    {
+        "name": "ionicons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/ionicons/font/ionicons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/ionicons/font/ionicons.ttf"
+    },
+    {
+        "name": "font_awesome",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/font_awesome/font/font_awesome.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/font_awesome/font/font_awesome.ttf"
+    },
+    {
+        "name": "feather_icons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/feather_icons/font/feather_icons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/feather_icons/font/feather_icons.ttf"
+    }
+]
