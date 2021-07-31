@@ -13,5 +13,10 @@
         "name": "feather_icons",
         "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/feather_icons/font/feather_icons.json",
         "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/feather_icons/font/feather_icons.ttf"
+    },
+    {
+        "name": "heroicons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/heroicons/font/heroicons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/heroicons/font/heroicons.ttf"
     }
 ]
