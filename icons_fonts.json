@@ -15,8 +15,8 @@
         "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/feather_icons/font/feather_icons.ttf"
     },
     {
-        "name": "heroicons",
-        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/heroicons/font/heroicons.json",
-        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/heroicons/font/heroicons.ttf"
+        "name": "weather_icons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/weather_icons/main/weather_icons/font/weather_icons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/weather_icons/main/weather_icons/font/weather_icons.ttf"
     }
 ]
