@@ -1,8 +1,8 @@
 [
     {
-        "name": "simple_fonts",
-        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_fonts/font/simple_fonts.json",
-        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_fonts/font/simple_fonts.ttf"
+        "name": "simple_icons",
+        "icons": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_icons/font/simple_icons.json",
+        "font": "https://raw.githubusercontent.com/HosamHasanRamadan/icons_fonts/main/simple_icons/font/simple_icons.ttf"
     },
     {
         "name": "font_awesome",
